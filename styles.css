@@ -1,8 +1,16 @@
 h1 {
     color: orange;
     background-color: slategray;
+    font-size: 45px;
+    text-decoration: underline;
+    font-family: Verdana, sans-serif;
+    text-align: center;
 }
 
 p {
     color: slateblue;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 3;
 }
